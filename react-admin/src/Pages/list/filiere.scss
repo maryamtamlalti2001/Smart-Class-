@@ -1,0 +1,25 @@
+.filiere{
+    display: flex;
+    width:100;
+    .fil{
+        flex:6;
+        .widgets{
+          padding: 20px;
+          gap: 20px;
+        }
+        .wid1{
+          width:200 px;
+          display: flex;
+          .espace{
+            width: 20px;
+            height:250px
+
+          }
+          
+        }
+    }
+    
+      .widgetfiliere{
+width: 300;
+      }
+}

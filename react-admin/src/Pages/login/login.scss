@@ -1,0 +1,84 @@
+.login{
+    height: 100vh;
+    background-image: linear-gradient(to bottom, rgba(123, 123, 123, 0.5), rgba(252, 252, 252, 0.5)), url("https://scontent.frba5-1.fna.fbcdn.net/v/t39.30808-6/318116218_8323749294366772_988076748369275447_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_eui2=AeHnNK0TIZCwYxcuYsakuV8Pf8fjKwJwSON_x-MrAnBI45S-YiwTKeQ7qaybkIn47Pj3VD20X2mWnlkFGYbZvzP3&_nc_ohc=xJVTx9UKabQAX8EJNJ9&_nc_ht=scontent.frba5-1.fna&oh=00_AfDLhqcUbnKYR0j8tuOhy8kBZPFg6MttiJ1BjOCjGaASNw&oe=63BE1C78");
+    background-size: 100% 100%;
+     background-repeat: no-repeat;
+     
+  
+    
+
+    .image{
+        background-color: aliceblue;
+        height:70px;
+        width: 100%;
+    img{    width: auto;
+            height: 60px;
+            border-radius: 3%;
+            object-fit: cover;
+            
+    }  
+    .img2{
+        width: auto;
+            height: 60px;
+            border-radius: 3%;
+            object-fit: cover;
+            margin-top: -100px;
+
+    }
+}
+
+    .form2{display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-right: auto;
+        margin-left: auto;
+        background-color: white;
+        height: 300px;
+        margin-top: 100px;
+        width: 400px;
+        border-radius: 20px;
+
+    form{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    
+    input{
+        width:200px;
+        height:30px;
+        margin:10px;
+        align-items: center;
+    justify-content: center;
+    }
+    button{
+        width:200px;
+        height:30px;
+        border: none;
+        background-color: rgb(0, 157, 255) ;
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+        align-items: center;
+    justify-content: center;
+    }
+    span{
+        font-size:12px;
+        color:red;
+        margin-top: 10px;
+        align-items: center;
+    justify-content: center;
+    }
+    .log{
+       margin-left: auto;
+       margin-right: auto;
+       color: rgb(0, 157, 255);
+       font-weight: bold;
+       font-size: 30px;
+        
+    }
+}
+}
+}
